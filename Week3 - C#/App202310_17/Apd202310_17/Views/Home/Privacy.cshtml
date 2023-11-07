@@ -1,0 +1,27 @@
+﻿@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
+
+
+<p>
+    @* ilvalore letto da cookie è @ViewBag.EMail; *@
+
+    la mail di pluto è : @HttpContextAccessor?.HttpContext?.Request.Cookies["EMail"];
+</p>
+<p>
+    UserID : @ViewBag.ID;
+    <br/>
+    UserName: @ViewBag.Username;
+</p>
+
+<p>
+    UserID = @TempData.Peek("NomeUtente");
+    nomeUtente = @TempData.Peek("NomeUtente");
+    <br/>
+    idUtente= @TempData.Peek("UtenteId");
+</p>

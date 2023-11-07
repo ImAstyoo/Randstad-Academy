@@ -1,0 +1,12 @@
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\DataIdentity\bin\Debug\net7.0\DataIdentity.deps.json
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\DataIdentity\bin\Debug\net7.0\DataIdentity.dll
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\DataIdentity\bin\Debug\net7.0\DataIdentity.pdb
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\DataIdentity\obj\Debug\net7.0\DataIdentity.csproj.AssemblyReference.cache
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\DataIdentity\obj\Debug\net7.0\DataIdentity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\DataIdentity\obj\Debug\net7.0\DataIdentity.AssemblyInfoInputs.cache
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\DataIdentity\obj\Debug\net7.0\DataIdentity.AssemblyInfo.cs
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\DataIdentity\obj\Debug\net7.0\DataIdentity.csproj.CoreCompileInputs.cache
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\DataIdentity\obj\Debug\net7.0\DataIdentity.dll
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\DataIdentity\obj\Debug\net7.0\refint\DataIdentity.dll
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\DataIdentity\obj\Debug\net7.0\DataIdentity.pdb
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\DataIdentity\obj\Debug\net7.0\ref\DataIdentity.dll

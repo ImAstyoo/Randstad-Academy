@@ -1,0 +1,15 @@
+C:\Users\WOWMA\Desktop\Projects\Randstad\Lesson2\Lesson2\prjAutomobile\bin\Debug\net6.0\prjAutomobile.exe
+C:\Users\WOWMA\Desktop\Projects\Randstad\Lesson2\Lesson2\prjAutomobile\bin\Debug\net6.0\prjAutomobile.deps.json
+C:\Users\WOWMA\Desktop\Projects\Randstad\Lesson2\Lesson2\prjAutomobile\bin\Debug\net6.0\prjAutomobile.runtimeconfig.json
+C:\Users\WOWMA\Desktop\Projects\Randstad\Lesson2\Lesson2\prjAutomobile\bin\Debug\net6.0\prjAutomobile.dll
+C:\Users\WOWMA\Desktop\Projects\Randstad\Lesson2\Lesson2\prjAutomobile\bin\Debug\net6.0\prjAutomobile.pdb
+C:\Users\WOWMA\Desktop\Projects\Randstad\Lesson2\Lesson2\prjAutomobile\obj\Debug\net6.0\prjAutomobile.csproj.AssemblyReference.cache
+C:\Users\WOWMA\Desktop\Projects\Randstad\Lesson2\Lesson2\prjAutomobile\obj\Debug\net6.0\prjAutomobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WOWMA\Desktop\Projects\Randstad\Lesson2\Lesson2\prjAutomobile\obj\Debug\net6.0\prjAutomobile.AssemblyInfoInputs.cache
+C:\Users\WOWMA\Desktop\Projects\Randstad\Lesson2\Lesson2\prjAutomobile\obj\Debug\net6.0\prjAutomobile.AssemblyInfo.cs
+C:\Users\WOWMA\Desktop\Projects\Randstad\Lesson2\Lesson2\prjAutomobile\obj\Debug\net6.0\prjAutomobile.csproj.CoreCompileInputs.cache
+C:\Users\WOWMA\Desktop\Projects\Randstad\Lesson2\Lesson2\prjAutomobile\obj\Debug\net6.0\prjAutomobile.dll
+C:\Users\WOWMA\Desktop\Projects\Randstad\Lesson2\Lesson2\prjAutomobile\obj\Debug\net6.0\refint\prjAutomobile.dll
+C:\Users\WOWMA\Desktop\Projects\Randstad\Lesson2\Lesson2\prjAutomobile\obj\Debug\net6.0\prjAutomobile.pdb
+C:\Users\WOWMA\Desktop\Projects\Randstad\Lesson2\Lesson2\prjAutomobile\obj\Debug\net6.0\prjAutomobile.genruntimeconfig.cache
+C:\Users\WOWMA\Desktop\Projects\Randstad\Lesson2\Lesson2\prjAutomobile\obj\Debug\net6.0\ref\prjAutomobile.dll

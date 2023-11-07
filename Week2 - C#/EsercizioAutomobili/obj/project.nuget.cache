@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "ui+8iGRWN7lgc6v2J0mAbX6JDw7Fj8rnfoynkCb2+tBcJG7TMd83X/gN9U0laI9/xDB3XsSx2syv6wmP+qemzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WOWMA\\Desktop\\Projects\\Randstad\\Week 2\\EsercizioAutomobili\\EsercizioAutomobili.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WOWMA\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\7.0.9\\microsoft.aspnetcore.authentication.negotiate.7.0.9.nupkg.sha512",
+    "C:\\Users\\WOWMA\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.9\\microsoft.aspnetcore.connections.abstractions.7.0.9.nupkg.sha512",
+    "C:\\Users\\WOWMA\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\WOWMA\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\WOWMA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\WOWMA\\.nuget\\packages\\microsoft.extensions.features\\7.0.9\\microsoft.extensions.features.7.0.9.nupkg.sha512",
+    "C:\\Users\\WOWMA\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\WOWMA\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\WOWMA\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\WOWMA\\.nuget\\packages\\system.directoryservices.protocols\\7.0.1\\system.directoryservices.protocols.7.0.1.nupkg.sha512",
+    "C:\\Users\\WOWMA\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

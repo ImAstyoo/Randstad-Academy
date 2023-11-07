@@ -1,0 +1,8 @@
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\obj\Debug\net7.0\Lesson1.csproj.AssemblyReference.cache
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\obj\Debug\net7.0\Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\obj\Debug\net7.0\Lesson1.AssemblyInfoInputs.cache
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\obj\Debug\net7.0\Lesson1.AssemblyInfo.cs
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\obj\Debug\net7.0\Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\obj\Debug\net7.0\Lesson1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\obj\Debug\net7.0\Lesson1.RazorAssemblyInfo.cache
+C:\Users\WOWMA\Desktop\Projects\Randstad\Week 3\Lesson1\obj\Debug\net7.0\Lesson1.RazorAssemblyInfo.cs

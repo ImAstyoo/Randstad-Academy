@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "prjAutomobile/1.0.0": {
+        "runtime": {
+          "prjAutomobile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prjAutomobile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

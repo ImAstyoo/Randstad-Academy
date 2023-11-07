@@ -1,0 +1,31 @@
+﻿@using Microsoft.AspNetCore.Mvc.ApplicationModels
+@model Cliente
+
+@{
+    
+}
+
+<!DOCTYPE html>
+
+<html lang="it">
+<head>
+    <title>title</title>
+</head>
+<body>
+<div>
+     <form id="registrazione" method="post" action="Registrazione">
+            <div class="mb-3">
+                <label asp-for="@Model.Email" class="form-label">Email address</label>
+                <input asp-for="@Model.Email" type="email" class="form-control" placeholder="name@example.com">
+            </div>
+            <div class="mb-3">
+                <label asp-for="@Model.Password" class="form-label">Password</label>
+                <input asp-for="@Model.Password" type="password" class="form-control"placeholder="Password">
+            </div>
+            <div class="col-12">
+                <button class="btn btn-primary" type="submit">Register</button>
+            </div>
+        </form>
+</div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1", "Lesson1.csproj", "{73B193B8-023C-4EB2-95E5-5F7E329D834F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataIdentity", "DataIdentity\DataIdentity.csproj", "{6FDCCF2A-C71C-404C-946B-91CD45EF1147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B193B8-023C-4EB2-95E5-5F7E329D834F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B193B8-023C-4EB2-95E5-5F7E329D834F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B193B8-023C-4EB2-95E5-5F7E329D834F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B193B8-023C-4EB2-95E5-5F7E329D834F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FDCCF2A-C71C-404C-946B-91CD45EF1147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDCCF2A-C71C-404C-946B-91CD45EF1147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDCCF2A-C71C-404C-946B-91CD45EF1147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDCCF2A-C71C-404C-946B-91CD45EF1147}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
