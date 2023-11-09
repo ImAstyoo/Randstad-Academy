@@ -3,7 +3,7 @@ import React, {useState, useEffect} from 'react';
 const Clock = ({country, timezone}) => {
     const offset = parseInt(timezone) * 3600000;
     const [time, setTime] = useState(new Date());
-    const adjustedTime = new Date(time.getTime() + offset);
+    const adjustedTime = new Date();
     const eTime = {
         hours: adjustedTime.getHours().toString().padStart(2, '0'),
         minutes: adjustedTime.getMinutes().toString().padStart(2, '0'),

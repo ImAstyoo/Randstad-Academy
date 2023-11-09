@@ -1,30 +1,48 @@
-import React, {useState, useEffect} from 'react';
-import Clock from './Components/clock.js';
+import React, {useState} from 'react';
+import {BrowserRouter, Route, Routes} from "react-router-dom";
+import Paths from "./UsersApp/Resources/Paths";
+import Links from "./UsersApp/Resources/Links";
+import Navbar from "./UsersApp/Components/Navbar";
+import UsersList from "./UsersApp/Pages/UsersList";
+import UserCreate from "./UsersApp/Pages/UserCreate";
+import UserDelete from "./UsersApp/Pages/UserDelete";
+import UserUpdate from "./UsersApp/Pages/UserUpdate";
+import data from "./UsersApp/Resources/db.json";
 
 const App = () => {
-    const fromDatabase = [
-        {name: 'Italia', timezone: '2'},
-        {name: 'Messico', timezone: '6'},
-        {name: 'India', timezone: '-5'}
-    ];
 
-    const [countries] = useState(fromDatabase);
-    const [currentIndex, setCurrentIndex] = useState(0);
+  const [users, setUsers] = useState([...data["users"]]);
 
-    useEffect(() => {
-        const interval = setInterval(() => {
-            setCurrentIndex(Math.floor(countries.length * Math.random()));
-        }, 200);
+  function createUser(user) {
+    setUsers([...users, user]);
+  }
 
-        return () => clearInterval(interval);
-    }, [countries]);
+  function deleteUser(user) {
+    const selectedUser = users.findIndex((obj) => obj.id === user.id);
+    users.splice(selectedUser, 1);
+    setUsers([...users])
+  }
 
-    return (
-        <div>
-            <h1>Esercizio Clock</h1>
-            <Clock country={countries[currentIndex].name} timezone={countries[currentIndex].timezone}/>
-        </div>
-    );
+  function editUser(user) {
+    const selectedUser = users.findIndex((obj) => obj.id === user.id);
+    users[selectedUser] = user;
+  }
+
+  return (
+    <BrowserRouter>
+      <div>
+        <Navbar links={Links}></Navbar>
+        <Routes>
+          <Route path={Paths.default} element={<UsersList users={users}/>}/>
+        </Routes>
+        <Routes>
+          <Route path={Paths.create} element={<UserCreate callback={createUser.bind(Object())}/>}/>
+          <Route path={Paths.delete} element={<UserDelete callback={deleteUser.bind(Object())}/>}/>
+          <Route path={Paths.update} element={<UserUpdate callback={editUser.bind(Object())}/>}/>
+        </Routes>
+      </div>
+    </BrowserRouter>
+  );
 };
 
 export default App;
